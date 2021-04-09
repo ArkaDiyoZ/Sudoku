@@ -1,0 +1,20 @@
+﻿  Button.cpp
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Button.cpp(38,44): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Button.cpp(38,28): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Button.cpp(39,44): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Button.cpp(39,28): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  main.cpp
+  Sudoku.cpp
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(40,29): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(26,9): warning C4101: startTimeForCheckButton: неиспользованная локальная переменная
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(380,29): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(561,29): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(753,6): warning C4101: flag: неиспользованная локальная переменная
+  SudokuCell.cpp
+  SudokuGenerator.cpp
+  SudokuSolver.cpp
+  Создание кода...
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(475): warning C4715: Sudoku::Sudoku::menu_result: значение возвращается не при всех путях выполнения
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(350): warning C4715: Sudoku::Sudoku::menu: значение возвращается не при всех путях выполнения
+C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\src\Sudoku.cpp(1105): warning C4715: Sudoku::Sudoku::play: значение возвращается не при всех путях выполнения
+  SDL.vcxproj -> C:\Users\Rich\Desktop\All_of_this\Virin_A_V_Kurs\bin\x86\Debug\SDL.exe

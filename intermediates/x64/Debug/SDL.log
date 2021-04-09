@@ -1,0 +1,32 @@
+﻿Button.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_GetMouseState в функции "public: enum ButtonState __cdecl Button::getMouseEvent(union SDL_Event const *)" (?getMouseEvent@Button@@QEAA?AW4ButtonState@@PEBTSDL_Event@@@Z).
+Button.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_QueryTexture в функции "public: void __cdecl Button::centerTextureRect(void)" (?centerTextureRect@Button@@QEAAXXZ).
+Button.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_SetRenderDrawColor в функции "public: void __cdecl Button::renderButton(struct SDL_Renderer *)" (?renderButton@Button@@QEAAXPEAUSDL_Renderer@@@Z).
+Sudoku.obj : error LNK2001: неразрешенный внешний символ SDL_SetRenderDrawColor.
+Button.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_RenderFillRect в функции "public: void __cdecl Button::renderButton(struct SDL_Renderer *)" (?renderButton@Button@@QEAAXPEAUSDL_Renderer@@@Z).
+Button.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_RenderCopy в функции "public: void __cdecl Button::renderTexture(struct SDL_Renderer *)" (?renderTexture@Button@@QEAAXPEAUSDL_Renderer@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_GetError в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_FreeSurface в функции "private: void __cdecl Sudoku::Sudoku::loadTexture(struct SDL_Texture * &,char const *,struct SDL_Color &)" (?loadTexture@Sudoku@1@AEAAXAEAPEAUSDL_Texture@@PEBDAEAUSDL_Color@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_CreateWindow в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_DestroyWindow в функции "public: void __cdecl Sudoku::Sudoku::close(struct SDL_Renderer *,struct SDL_Window *,struct _TTF_Font *)" (?close@Sudoku@1@QEAAXPEAUSDL_Renderer@@PEAUSDL_Window@@PEAU_TTF_Font@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_StartTextInput в функции "public: int __cdecl Sudoku::Sudoku::play(void)" (?play@Sudoku@1@QEAAHXZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_StopTextInput в функции "public: int __cdecl Sudoku::Sudoku::play(void)" (?play@Sudoku@1@QEAAHXZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_PollEvent в функции "public: int __cdecl Sudoku::Sudoku::menu(void)" (?menu@Sudoku@1@QEAAHXZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_CreateRenderer в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_CreateTextureFromSurface в функции "private: void __cdecl Sudoku::Sudoku::loadTexture(struct SDL_Texture * &,char const *,struct SDL_Color &)" (?loadTexture@Sudoku@1@AEAAXAEAPEAUSDL_Texture@@PEBDAEAUSDL_Color@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_RenderClear в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_RenderPresent в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_DestroyTexture в функции "private: void __cdecl Sudoku::Sudoku::freeTextures(void)" (?freeTextures@Sudoku@1@AEAAXXZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_DestroyRenderer в функции "public: void __cdecl Sudoku::Sudoku::close(struct SDL_Renderer *,struct SDL_Window *,struct _TTF_Font *)" (?close@Sudoku@1@QEAAXPEAUSDL_Renderer@@PEAUSDL_Window@@PEAU_TTF_Font@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_Delay в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_Init в функции "public: __cdecl Sudoku::Wind::Wind(void)" (??0Wind@Sudoku@@QEAA@XZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ SDL_Quit в функции "public: void __cdecl Sudoku::Sudoku::close(struct SDL_Renderer *,struct SDL_Window *,struct _TTF_Font *)" (?close@Sudoku@1@QEAAXPEAUSDL_Renderer@@PEAUSDL_Window@@PEAU_TTF_Font@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ TTF_Init в функции "private: bool __cdecl Sudoku::Sudoku::initialiseSDL(void)" (?initialiseSDL@Sudoku@1@AEAA_NXZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ TTF_OpenFont в функции "private: bool __cdecl Sudoku::Sudoku::initialiseSDL(void)" (?initialiseSDL@Sudoku@1@AEAA_NXZ).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ TTF_RenderText_Solid в функции "private: void __cdecl Sudoku::Sudoku::loadTexture(struct SDL_Texture * &,char const *,struct SDL_Color &)" (?loadTexture@Sudoku@1@AEAAXAEAPEAUSDL_Texture@@PEBDAEAUSDL_Color@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ TTF_CloseFont в функции "public: void __cdecl Sudoku::Sudoku::close(struct SDL_Renderer *,struct SDL_Window *,struct _TTF_Font *)" (?close@Sudoku@1@QEAAXPEAUSDL_Renderer@@PEAUSDL_Window@@PEAU_TTF_Font@@@Z).
+Sudoku.obj : error LNK2019: ссылка на неразрешенный внешний символ TTF_Quit в функции "public: void __cdecl Sudoku::Sudoku::close(struct SDL_Renderer *,struct SDL_Window *,struct _TTF_Font *)" (?close@Sudoku@1@QEAAXPEAUSDL_Renderer@@PEAUSDL_Window@@PEAU_TTF_Font@@@Z).
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ WinMain в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Rich\Desktop\SudokuOfHealthMan_SDL2\dependencies\SDL\lib\SDL2.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Rich\Desktop\SudokuOfHealthMan_SDL2\dependencies\SDL\lib\SDL2main.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Rich\Desktop\SudokuOfHealthMan_SDL2\dependencies\SDL_TTF\lib\SDL2_ttf.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Rich\Desktop\SudokuOfHealthMan_SDL2\bin\x64\Debug\SDL.exe : fatal error LNK1120: неразрешенных внешних элементов: 27
